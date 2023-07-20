@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gehadelamir
-- 👀 I’m interested in data anlaysis
-- 🌱 I’m currently learning data anlysis
+Junior data analyst
 
 
 <!---
