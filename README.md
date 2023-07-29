@@ -18,7 +18,7 @@
 ### Languages and Tools 🛠 : 
 
 ![python](https://img.shields.io/badge/-python-%231572B6?style=flat-square&logo=Python)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![C++](https://img.shields.io/badge/-C++-%231572B6?style=flat-square&logo=c++)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![tailwind](https://img.shields.io/badge/-tailwindcss-15b4c1?style=flat-square&logo=tailwindcss&logoColor=ffffff)
