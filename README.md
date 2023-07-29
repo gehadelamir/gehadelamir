@@ -8,7 +8,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Gehad Elamir from Egypt. I'm a Data Analyst. l loves analysis and math, so I combined these two fields and became a junior data analyst. Once I got introduced to data analysis, </h4>
+<h4> I'm Gehad Elamir from Egypt. I'm a Data Analyst. l loves analysis and math, so I combined these two fields and became a junior data analyst. Once I got introduced to data analysis,I became fond of the field and since then I have constantly been pushing my limits to learn more about the fantastic world of data. </h4>
 
 
 	
