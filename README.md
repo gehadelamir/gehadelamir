@@ -24,6 +24,7 @@
 ![Excel](https://img.shields.io/badge/-Excel-15b4c1?style=flat-square&logo=Excel&logoColor=ffffff)
 ![power bi](https://img.shields.io/badge/-power%20bi-%23CC6699?style=flat-square&logo=power%20bi&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![SQL](https://img.shields.io/badge/-SQL-181717?style=flat-square&logo=SQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
