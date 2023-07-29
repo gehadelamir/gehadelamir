@@ -33,7 +33,7 @@
 
 
 - ### I’m currently learning 
-![ML](https://img.shields.io/badge/-ML-%23282C34?style=flat-square&logo=ML)
+![Machine learning](https://img.shields.io/badge/-Machine%20learning-%23282C34?style=flat-square&logo=Machine%20learning)
 ![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)
 ![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
 
