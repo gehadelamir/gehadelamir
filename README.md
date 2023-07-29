@@ -19,7 +19,7 @@
 
 ![python](https://img.shields.io/badge/-python-%231572B6?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-%231572B6?style=flat-square&logo=c++)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![anconda](https://img.shields.io/badge/-anconda-black?style=flat-square&logo=anconda)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![tailwind](https://img.shields.io/badge/-tailwindcss-15b4c1?style=flat-square&logo=tailwindcss&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
