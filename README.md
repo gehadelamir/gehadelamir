@@ -34,8 +34,8 @@
 
 - ### I’m currently learning 
 ![Machine learning](https://img.shields.io/badge/-Machine%20learning-%23282C34?style=flat-square&logo=Machine%20learning)
-![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)
-![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
+![Ai](https://img.shields.io/badge/-Ai-7348b6?style=flat-square&logo=Ai&logoColor=ffffff)
+
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
