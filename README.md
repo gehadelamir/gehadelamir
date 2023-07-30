@@ -17,7 +17,7 @@
 
 ### Languages and Tools 🛠 : 
 
-![Python](https://img.shields.io/badge/-python-%231572B6?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-python-%808080?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-%231572B6?style=flat-square&logo=C++)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-black?style=flat-square&logo=anaconda)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-563D7C?style=flat-square&logo=Jupyter)
