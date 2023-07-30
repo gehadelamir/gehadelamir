@@ -42,7 +42,7 @@
  
   ### Connect with Me :
 <a href="https://www.linkedin.com/in/gehad-elamir/" target="_blank"><img src="https://img.shields.io/badge/-Gehad%20Elamir-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.datacamp.com/portfolio/gehadelamir8" target="_blank"><img src="https://img.shields.io/badge/-Gehad%20Elamir-0077B5?style=for-the-badge&logo=Datacamp&logoColor=white"/></a>
+<a href="https://www.datacamp.com/portfolio/gehadelamir8" target="_blank"><img src="https://img.shields.io/badge/-Gehad%20Elamir-0077B5?style=for-the-badge&logo=Datacamp&logoColor=green"/></a>
 ---
 <br/>
 
